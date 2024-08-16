@@ -3,11 +3,11 @@ This repo is for the code related to Jasper et al. (2024) in Paleoceanography an
 
 ### This repo has three jupyter notebooks:
 #### 1_cnn_build
-notebook with the training data set up and model architecture. 
+notebook with the training data set up and the cnn model architecture. 
 #### 2_label_images
-notebook to use the model to label either single images or images down splice 
+notebook to use the trained cnn model to label either single images or images down splice 
 #### 3_ird_counter
-notebook to go from the IRD-labeled images to a csv with the IRD 
+notebook to go from the IRD-labeled images to a csv file with the depth of each IRD grain identified down the splice 
 
 ### Additional Information
 All of the training data and the trained CNN model used in Jasper et al. (2024) has been archived on Zenodo, and is available for download [here](https://zenodo.org/records/13333689)
