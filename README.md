@@ -1,5 +1,5 @@
 ## Convolutional Neural Network to Identify IRD in IODP Expedition 382 Sediment Cores X-ray Images
-Repository for Jasper et al. (2024) in Paleoceanography and Paleoclimatology entitled, "A 3.3-Million-Year Record of Antarctic Iceberg Rafted Debris and Ice Sheet Evolution Quantified by Machine Learning"
+Repository for the Jasper et al. (2024) manuscript in Paleoceanography and Paleoclimatology entitled, "A 3.3-Million-Year Record of Antarctic Iceberg Rafted Debris and Ice Sheet Evolution Quantified by Machine Learning"
 
 ## This repo has three jupyter notebooks:
 #### 1_cnn_build
