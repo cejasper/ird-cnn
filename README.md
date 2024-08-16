@@ -12,7 +12,7 @@ notebook to go from the IRD-labeled images to a csv file with the depth of each 
 ### Additional Information
 All of the training data and the trained CNN model used in Jasper et al. (2024) has been archived on Zenodo, and is available for download [here](https://zenodo.org/records/13333689)
 
-Note: The model architecture in 1_cnn_build builds off of the code from Dyer et al. 2021 PNAS and can be found [here](https://github.com/blakedyer/bahamas_lig)
+Note: The model architecture in 1_cnn_build builds off of the code from Dyer et al. 2021 PNAS and the original model build can be found [here](https://github.com/blakedyer/bahamas_lig)
 
 ### Requirements for running and training the CNN model
 
