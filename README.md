@@ -1,4 +1,4 @@
-# Convolutional Neural Network to Identify and Quantify Iceberg Rafted Debris in IODP Expedition 382 Sediment Cores
+## Convolutional Neural Network to Identify IRD in IODP Expedition 382 Sediment Cores X-ray Images
 This repo is for the code related to Jasper et al. (2024) in Paleoceanography and Paleoclimatology entitled, "A 3.3-Million-Year Record of Antarctic Iceberg Rafted Debris and Ice Sheet Evolution Quantified by Machine Learning"
 
 ### This repo has three jupyter notebooks:
@@ -8,6 +8,7 @@ notebook with the training data set up and model architecture.
 notebook to use the model to label either single images or images down splice 
 #### 3_ird_counter
 notebook to go from the IRD-labeled images to a csv with the IRD 
+
 
 All of the training data and the trained CNN model used in Jasper et al. (2024) has been archived on Zenodo, and is available for download [here](https://zenodo.org/records/13333689)
 
